@@ -72,6 +72,7 @@ Map<String, dynamic> _$VideoFileToJson(VideoFile instance) => <String, dynamic>{
 const _$VideoQualityEnumMap = {
   VideoQuality.sd: 'sd',
   VideoQuality.hd: 'hd',
+  VideoQuality.uhd: 'uhd',
 };
 
 VideoPicture _$VideoPictureFromJson(Map<String, dynamic> json) => VideoPicture(
