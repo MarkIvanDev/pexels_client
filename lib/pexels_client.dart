@@ -1,5 +1,5 @@
 /// An unofficial dart wrapper for the [Pexels API](https://www.pexels.com/api/).
-library pexels_client;
+library;
 
 export 'src/models/models.dart';
 export 'src/client.dart';
