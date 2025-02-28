@@ -136,7 +136,8 @@ class VideoPicture {
 
 enum VideoQuality {
   sd,
-  hd;
+  hd,
+  uhd;
 }
 
 @JsonSerializable()
